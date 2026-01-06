@@ -1,1 +1,17 @@
 # NLP-Based-Multilingual-Text-to-Speech-System
+
+# Auto Language Detection Text-to-Speech
+
+This project converts text into speech by automatically detecting the language.
+
+## Supported Languages
+- English
+- Tamil
+- Malayalam
+- Telugu
+
+## Installation
+pip install -r requirements.txt
+
+## Run
+python tts.py
